@@ -252,8 +252,3 @@ Write a function that sorts a deck of cards.
 
 File(s): [`1000-sort_deck.c`](./1000-sort_deck.c) [`deck.h`](./deck.h)\
 Compiled: `gcc -Wall -Wextra -Werror -pedantic 1000-main.c 1000-sort_deck.c -o deck`
-
----
-
-## Student team
-* **Samuel Pomeroy** - [allelomorph](github.com/allelomorph)
