@@ -3,12 +3,6 @@ Foundations > Low-level programming & Algorithm > Data structures and Algorithms
 
 ---
 
-### Project author
-Alexandre Gautier
-
-### Assignment dates
-06-11-2020 to 06-18-2020
-
 ### Description
 Fourth team project. Introduction to popular sorting algorithms, and using big O notation to indicate time and space complexity.
 
